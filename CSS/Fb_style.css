@@ -310,9 +310,9 @@ aside.video-preview {
 }
 
 /*доб: */
-<!--.video-preview > img {
+    .video-preview > img {
     width: 350px;
-    height: 350px;-->
+    height: 350px;
 }
 
 section.photos {
